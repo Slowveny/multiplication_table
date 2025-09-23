@@ -1,1 +1,1 @@
-In this project I created a multiplication table. Enter a number to see its multiplication table!!!
+In this project I created a multiplication table using python and its basic functions!!!
